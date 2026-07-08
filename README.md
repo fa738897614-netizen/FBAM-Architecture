@@ -10,7 +10,7 @@ FBAM is a novel architectural framework for Folder-Based AI Memory, designed to 
 - **Security & Privacy:** Secure data foundation with managed permissions.
 
 ## Architecture
-(Place your video link here)
+![FBAM Architecture](r.png)
 
 ## License
 This project is licensed under the MIT License.
